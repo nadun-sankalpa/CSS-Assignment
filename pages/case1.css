@@ -1,0 +1,226 @@
+
+.box1{
+    width: 962px;
+    height: 480px;
+    background-color: red;
+    border: 1px solid black;
+    position: absolute;
+    margin-top: -0.4%;
+    margin-left: -0.4%;
+}
+.box2{
+    width: 962px;
+    height: 480px;
+    background-color: rgb(4, 88, 4);
+    border: 1px solid black;
+    position: absolute;
+    right: 0%;
+    margin-top: -0.4%;
+    margin-right: -0.4%;
+}
+.box3{
+    width: 962px;
+    height: 480px;
+    background-color: rgb(236, 132, 14);
+    border: 1px solid black;
+    position: absolute;
+    bottom: 0%;
+    margin-bottom: -0.4%;
+    margin-left: -0.4%;
+}
+.box4{
+    width: 962px;
+    height: 480px;
+    background-color: rgb(211, 48, 157);
+    border: 1px solid black;
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    margin-bottom: -0.4%;
+    margin-right: -0.4%;
+}
+
+.box5{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-bottom-right-radius: 100%;
+}
+
+.box6{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    position: fixed;
+    top: 0;
+    right: 0;
+    border-bottom-left-radius: 100%;
+}
+.box7{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    border-top-right-radius: 100%;
+}
+
+.box8{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    border-top-left-radius: 100%;
+
+}
+.box9{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    position: fixed;
+    bottom: -8.8%;
+    right: 45%;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+
+}
+
+.box10{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    position: fixed;
+    top: -8.8%;
+    left: 45%;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+}
+
+.box11{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(253, 253, 253);
+    border: 1px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.box12{
+    width: 160px;
+    height: 160px;
+    background-color: rgb(255, 0, 0);
+    border: 1px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+}
+
+.box13{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+}
+
+.box14{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    position: absolute;
+    top: 25%;
+    right: 14%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+}
+
+.box15{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    position: absolute;
+    bottom: 4%;
+    left: 25.2%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+}
+
+.box16{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    position: absolute;
+    bottom: 4%;
+    right: 14.1%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+}
+
+.box17{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(255, 0, 0);
+    border: 1px solid black;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    transform: translate(-50%,-50%);
+
+}
+
+.box18{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(255, 0, 0);
+    border: 1px solid black;
+    position: absolute;
+    top: 25%;
+    right: 20.8%;
+    transform: translate(-50%,-50%);
+
+}
+
+.box19{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(255, 0, 0);
+    border: 1px solid black;
+    position: absolute;
+    bottom: 18%;
+    left: 25.2%;
+    transform: translate(-50%,-50%);
+}
+
+.box20{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(255, 0, 0);    
+    border: 1px solid black;
+    position: absolute;
+    bottom: 18%;
+    right: 20.8%;
+    transform: translate(-50%,-50%);
+}
