@@ -71,7 +71,7 @@ header{
     display: flex;
     column-gap: 0;
 }
-.multimedia video{
+.multimedia img{
     width: 33.33%;
     height: 25vh;
     border: 1px solid black;
